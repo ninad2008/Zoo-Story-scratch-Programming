@@ -8,18 +8,16 @@ The story starts with a Zoo Guide character who welcomes visitors and takes them
 ⸻
 
 Story Flow
--
+
 	1.	Welcome Scene
 	•	The Zoo Guide welcomes the visitors.
 	•	Gives a brief introduction about the zoo tour.
--
 	2.	Animal Introduction Scenes
 	•	Lion – King of the jungle, symbol of strength.
 	•	Polar Bear – Lives in cold regions, strong swimmer.
 	•	Zebra – Black and white stripes for protection.
 	•	Giraffe – Tallest land animal, eats leaves from tall trees.
 	•	Deer – Gentle animal, important for forest balance.
--
 	3.	End Scene
 	•	The guide thanks the visitors.
 	•	Encourages people to protect wildlife.
